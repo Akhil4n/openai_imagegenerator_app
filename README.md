@@ -16,7 +16,8 @@ $ npx --version
 ```
 
 1. Checkout this project, get your own OpenAI key, and replace it in the app.js file for the dummy key
-## Replace it in this line
+
+Replace it in this line
 ```
 const OPENAI_API_KEY = "dummy";
 ```
